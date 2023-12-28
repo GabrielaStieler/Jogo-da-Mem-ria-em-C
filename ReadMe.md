@@ -44,4 +44,4 @@ gcc nome_do_arquivo.c -o jogo_da_memoria -lgraphics
 ./jogo_da_memoria
 
 
-Divirta-se jogando o Jogo da Memória!
+Divirta-se jogando o Jogo da Memoria!!
